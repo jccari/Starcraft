@@ -1,0 +1,12 @@
+[2021-04-08 19:14:23] Unable to find C:\Games\Starcraft\bwapi-data\BWAPId.dll.
+ID 00000003: 
+El sistema no puede encontrar la ruta especificada.
+
+[2021-04-08 19:21:37] Unable to find C:\Games\Starcraft\bwapi-data\BWAPId.dll.
+ID 00000003: 
+El sistema no puede encontrar la ruta especificada.
+
+[2021-04-08 19:22:40] Unable to find C:\Games\Starcraft\bwapi-data\BWAPId.dll.
+ID 00000003: 
+El sistema no puede encontrar la ruta especificada.
+

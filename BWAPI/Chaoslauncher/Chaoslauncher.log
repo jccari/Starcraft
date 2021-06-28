@@ -1,0 +1,57 @@
+8/04/2021 19:22:21 16344 Logging started
+8/04/2021 19:22:21 16344 Begin Startup
+8/04/2021 19:22:21 16344 Chaosauncher 0.5.4.4 on NT 6.2.9200  at C:\Games\Starcraft\BWAPI\Chaoslauncher\Chaoslauncher.exe
+8/04/2021 19:22:21 16344 Load Settings
+8/04/2021 19:22:21 16344 GamePath: C:\Games\Starcraft\
+8/04/2021 19:22:21 16344 Load Plugins
+8/04/2021 19:22:21 16344 AdvLoaderPluginPath: \Plugins\
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\iccscbn.icc
+8/04/2021 19:22:21 16344 Plugin loaded ICCup
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
+8/04/2021 19:22:21 16344 Plugin loaded APMAlert (1.16.1)
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+8/04/2021 19:22:21 16344 Plugin loaded BWAPI 4.4.0 Injector [RELEASE]
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
+8/04/2021 19:22:21 16344 Plugin loaded BWAPI 4.4.0 Injector [DEBUG]
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
+8/04/2021 19:22:21 16344 Plugin loaded Chaosplugin for 1.16.1
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
+8/04/2021 19:22:21 16344 Plugin loaded LatencyChanger for 1.16.1
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\repfix.bwl
+8/04/2021 19:22:21 16344 Plugin loaded RepFix
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
+8/04/2021 19:22:21 16344 Plugin loaded RWAPlayer (1.16.1)
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
+8/04/2021 19:22:21 16344 Plugin loaded RWARecorder (1.16.1)
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
+8/04/2021 19:22:21 16344 Plugin loaded Stormplugin for 1.16.1
+8/04/2021 19:22:21 16344 Loading BWL4-Plugin C:\Games\Starcraft\BWAPI\Chaoslauncher\Plugins\wmode.bwl
+8/04/2021 19:22:21 16344 Plugin loaded W-MODE 1.02
+8/04/2021 19:22:21 16344 Load Tools
+8/04/2021 19:22:21 16344 Init GUI
+8/04/2021 19:22:21 16344 Get Starcraftversions
+8/04/2021 19:22:21 16344 Init complete
+8/04/2021 19:22:40 16344 Startbutton
+8/04/2021 19:22:40 16344 Starting Game Starcraft 1.16.1 C:\Games\Starcraft\StarCraft.exe
+8/04/2021 19:22:40 16344 BWAPI 4.4.0 Injector [DEBUG] Version  Compatible
+8/04/2021 19:22:40 16344 Obtained DebugPrivilege
+8/04/2021 19:22:40 16344 CreateProcess
+8/04/2021 19:22:40 16344 Call ScSuspended for all active Plugins
+8/04/2021 19:22:40 16344 ApplyPatchSuspended for BWAPI 4.4.0 Injector [DEBUG]
+8/04/2021 19:22:43 16344 ResumeThread
+8/04/2021 19:22:43 16344 WaitForInputIdle
+8/04/2021 19:22:44 16344 Call ScWindowCreated for all active Plugins
+8/04/2021 19:22:44 16344 ApplyPatch for BWAPI 4.4.0 Injector [DEBUG]
+8/04/2021 19:22:44 16344 Starting Starcraft completed
+8/04/2021 19:34:15 16344 Startbutton
+8/04/2021 19:34:15 16344 Starting Game Starcraft 1.16.1 C:\Games\Starcraft\StarCraft.exe
+8/04/2021 19:34:15 16344 BWAPI 4.4.0 Injector [DEBUG] Version  Compatible
+8/04/2021 19:34:15 16344 Obtained DebugPrivilege
+8/04/2021 19:34:15 16344 CreateProcess
+8/04/2021 19:34:15 16344 Call ScSuspended for all active Plugins
+8/04/2021 19:34:15 16344 ApplyPatchSuspended for BWAPI 4.4.0 Injector [DEBUG]
+8/04/2021 19:34:15 16344 ResumeThread
+8/04/2021 19:34:15 16344 WaitForInputIdle
+8/04/2021 19:34:16 16344 Call ScWindowCreated for all active Plugins
+8/04/2021 19:34:16 16344 ApplyPatch for BWAPI 4.4.0 Injector [DEBUG]
+8/04/2021 19:34:16 16344 Starting Starcraft completed
